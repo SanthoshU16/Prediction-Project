@@ -149,6 +149,7 @@ A **multiclass Logistic Regression model** was trained to classify opinions into
 * Most-used AI tools
 * Interactive Looker Studio dashboard
 
+#Screenshots included in the repository["Visual Insights.pdf"]
 ---
 
 ## 📌 Dashboard
@@ -158,9 +159,7 @@ An interactive dashboard was built using **Google Looker Studio**, allowing user
 * Filter by role, age, education level, and field of study
 * Analyze opinions visually
 * Explore trends interactively
-
-(Screenshots included in the repository(visuals))
-
+  
 ---
 
 ## ✅ Key Conclusion
