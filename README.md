@@ -149,7 +149,8 @@ A **multiclass Logistic Regression model** was trained to classify opinions into
 * Most-used AI tools
 * Interactive Looker Studio dashboard
 
-#Screenshots included in the repository["Visual Insights.pdf"]
+*Screenshots included in the repository["Visual Insights.pdf"]
+
 ---
 
 ## 📌 Dashboard
